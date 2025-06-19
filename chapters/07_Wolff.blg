@@ -1,0 +1,5 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is '07_Wolff.blg'
+[103] biber:340> INFO - === Wed Jan 10, 2024, 15:23:07
+[128] Utils.pm:410> ERROR - 07_Wolff.bcf is malformed, last biblatex run probably failed. Deleted 07_Wolff.bbl
+[128] Biber.pm:136> INFO - ERRORS: 1

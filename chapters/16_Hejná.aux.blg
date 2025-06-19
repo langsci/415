@@ -1,0 +1,5 @@
+[0] Config.pm:308> INFO - This is Biber 2.20
+[0] Config.pm:311> INFO - Logfile is '16_Hejná.aux.blg'
+[72] biber:340> INFO - === Tue Apr  1, 2025, 15:36:24
+[86] Utils.pm:410> ERROR - Cannot find '16_HejnÃ¡.aux.bcf'!
+[86] Biber.pm:136> INFO - ERRORS: 1

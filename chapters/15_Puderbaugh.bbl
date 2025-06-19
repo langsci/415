@@ -1,0 +1,1440 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{Barker1964}{book}{}
+      \name{author}{1}{}{%
+        {{hash=aae1e101d9dfe6138771198543cc1b55}{%
+           family={Barker},
+           familyi={B\bibinitperiod},
+           given={Muhammad\bibnamedelima Abd-al-Rahman},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinithyphendelim R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Oakland}%
+      }
+      \list{publisher}{1}{%
+        {University of California Press}%
+      }
+      \strng{namehash}{aae1e101d9dfe6138771198543cc1b55}
+      \strng{fullhash}{aae1e101d9dfe6138771198543cc1b55}
+      \strng{bibnamehash}{aae1e101d9dfe6138771198543cc1b55}
+      \strng{authorbibnamehash}{aae1e101d9dfe6138771198543cc1b55}
+      \strng{authornamehash}{aae1e101d9dfe6138771198543cc1b55}
+      \strng{authorfullhash}{aae1e101d9dfe6138771198543cc1b55}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{University of California publications in linguistics}
+      \field{title}{{Klamath Grammar}}
+      \field{volume}{32}
+      \field{year}{1964}
+    \endentry
+    \entry{Bauer2015}{article}{}
+      \name{author}{1}{}{%
+        {{hash=b0385be9a10b2c78bceb17b67526724f}{%
+           family={Bauer},
+           familyi={B\bibinitperiod},
+           given={Laurie},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{b0385be9a10b2c78bceb17b67526724f}
+      \strng{fullhash}{b0385be9a10b2c78bceb17b67526724f}
+      \strng{bibnamehash}{b0385be9a10b2c78bceb17b67526724f}
+      \strng{authorbibnamehash}{b0385be9a10b2c78bceb17b67526724f}
+      \strng{authornamehash}{b0385be9a10b2c78bceb17b67526724f}
+      \strng{authorfullhash}{b0385be9a10b2c78bceb17b67526724f}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{English Language and Linguistics}
+      \field{number}{3}
+      \field{title}{{English phonotactics}}
+      \field{volume}{19}
+      \field{year}{2015}
+      \field{pages}{437\bibrangedash 475}
+      \range{pages}{39}
+    \endentry
+    \entry{Beck2004}{book}{}
+      \name{author}{1}{}{%
+        {{hash=27ecc0f2a7f6084b94f9c19c069efbf9}{%
+           family={Beck},
+           familyi={B\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Muenchen}%
+      }
+      \list{publisher}{1}{%
+        {Lincom Europe}%
+      }
+      \strng{namehash}{27ecc0f2a7f6084b94f9c19c069efbf9}
+      \strng{fullhash}{27ecc0f2a7f6084b94f9c19c069efbf9}
+      \strng{bibnamehash}{27ecc0f2a7f6084b94f9c19c069efbf9}
+      \strng{authorbibnamehash}{27ecc0f2a7f6084b94f9c19c069efbf9}
+      \strng{authornamehash}{27ecc0f2a7f6084b94f9c19c069efbf9}
+      \strng{authorfullhash}{27ecc0f2a7f6084b94f9c19c069efbf9}
+      \field{extraname}{1}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Upper Necaxa Totonac}}
+      \field{year}{2004}
+      \field{pages}{112}
+      \range{pages}{1}
+    \endentry
+    \entry{Beck2006}{article}{}
+      \name{author}{1}{}{%
+        {{hash=27ecc0f2a7f6084b94f9c19c069efbf9}{%
+           family={Beck},
+           familyi={B\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{27ecc0f2a7f6084b94f9c19c069efbf9}
+      \strng{fullhash}{27ecc0f2a7f6084b94f9c19c069efbf9}
+      \strng{bibnamehash}{27ecc0f2a7f6084b94f9c19c069efbf9}
+      \strng{authorbibnamehash}{27ecc0f2a7f6084b94f9c19c069efbf9}
+      \strng{authornamehash}{27ecc0f2a7f6084b94f9c19c069efbf9}
+      \strng{authorfullhash}{27ecc0f2a7f6084b94f9c19c069efbf9}
+      \field{extraname}{2}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{University of Alberta Working Papers in Linguistics}
+      \field{title}{{The emergence of ejective fricatives in Upper Necaxa Totonac}}
+      \field{volume}{1}
+      \field{year}{2006}
+      \field{pages}{1\bibrangedash 18}
+      \range{pages}{18}
+    \endentry
+    \entry{Beck2008}{article}{}
+      \name{author}{1}{}{%
+        {{hash=27ecc0f2a7f6084b94f9c19c069efbf9}{%
+           family={Beck},
+           familyi={B\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{27ecc0f2a7f6084b94f9c19c069efbf9}
+      \strng{fullhash}{27ecc0f2a7f6084b94f9c19c069efbf9}
+      \strng{bibnamehash}{27ecc0f2a7f6084b94f9c19c069efbf9}
+      \strng{authorbibnamehash}{27ecc0f2a7f6084b94f9c19c069efbf9}
+      \strng{authornamehash}{27ecc0f2a7f6084b94f9c19c069efbf9}
+      \strng{authorfullhash}{27ecc0f2a7f6084b94f9c19c069efbf9}
+      \field{extraname}{3}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of American Linguistics}
+      \field{number}{1}
+      \field{title}{{Ideophones, adverbs, and predicate qualification in Upper Necaxa Totonac}}
+      \field{volume}{74}
+      \field{year}{2008}
+      \field{pages}{1\bibrangedash 46}
+      \range{pages}{46}
+    \endentry
+    \entry{Beck2011}{book}{}
+      \name{author}{1}{}{%
+        {{hash=27ecc0f2a7f6084b94f9c19c069efbf9}{%
+           family={Beck},
+           familyi={B\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \list{publisher}{1}{%
+        {Mouton DeGruyter}%
+      }
+      \strng{namehash}{27ecc0f2a7f6084b94f9c19c069efbf9}
+      \strng{fullhash}{27ecc0f2a7f6084b94f9c19c069efbf9}
+      \strng{bibnamehash}{27ecc0f2a7f6084b94f9c19c069efbf9}
+      \strng{authorbibnamehash}{27ecc0f2a7f6084b94f9c19c069efbf9}
+      \strng{authornamehash}{27ecc0f2a7f6084b94f9c19c069efbf9}
+      \strng{authorfullhash}{27ecc0f2a7f6084b94f9c19c069efbf9}
+      \field{extraname}{4}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Upper Necaxa Totonac Dictionary}}
+      \field{year}{2011}
+    \endentry
+    \entry{Blevins1993}{article}{}
+      \name{author}{1}{}{%
+        {{hash=a5957d2c1b712d8ab2c3afb159b80fc6}{%
+           family={Blevins},
+           familyi={B\bibinitperiod},
+           given={Juliette},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{a5957d2c1b712d8ab2c3afb159b80fc6}
+      \strng{fullhash}{a5957d2c1b712d8ab2c3afb159b80fc6}
+      \strng{bibnamehash}{a5957d2c1b712d8ab2c3afb159b80fc6}
+      \strng{authorbibnamehash}{a5957d2c1b712d8ab2c3afb159b80fc6}
+      \strng{authornamehash}{a5957d2c1b712d8ab2c3afb159b80fc6}
+      \strng{authorfullhash}{a5957d2c1b712d8ab2c3afb159b80fc6}
+      \field{extraname}{1}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of American Linguistics}
+      \field{title}{Klamath laryngeal phonology}
+      \field{volume}{59}
+      \field{year}{1993}
+      \field{pages}{237\bibrangedash 79}
+      \range{pages}{43}
+    \endentry
+    \entry{Blevins2001}{article}{}
+      \name{author}{1}{}{%
+        {{hash=a5957d2c1b712d8ab2c3afb159b80fc6}{%
+           family={Blevins},
+           familyi={B\bibinitperiod},
+           given={Juliette},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{a5957d2c1b712d8ab2c3afb159b80fc6}
+      \strng{fullhash}{a5957d2c1b712d8ab2c3afb159b80fc6}
+      \strng{bibnamehash}{a5957d2c1b712d8ab2c3afb159b80fc6}
+      \strng{authorbibnamehash}{a5957d2c1b712d8ab2c3afb159b80fc6}
+      \strng{authornamehash}{a5957d2c1b712d8ab2c3afb159b80fc6}
+      \strng{authorfullhash}{a5957d2c1b712d8ab2c3afb159b80fc6}
+      \field{extraname}{2}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of American Linguistics}
+      \field{number}{4}
+      \field{title}{{Klamath \textipa{/sP/} clusters}}
+      \field{volume}{67}
+      \field{year}{2001}
+      \field{pages}{467\bibrangedash 474}
+      \range{pages}{8}
+    \endentry
+    \entry{Boersma2018}{misc}{}
+      \name{author}{2}{}{%
+        {{hash=1de80d1e6db57bf71ae401df95e16936}{%
+           family={Boersma},
+           familyi={B\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+        {{hash=62aca07f9b92af88b9127b7a78b12b05}{%
+           family={Weenink},
+           familyi={W\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{44a7fb00f67e0cfbc14c52243d9a813f}
+      \strng{fullhash}{44a7fb00f67e0cfbc14c52243d9a813f}
+      \strng{bibnamehash}{44a7fb00f67e0cfbc14c52243d9a813f}
+      \strng{authorbibnamehash}{44a7fb00f67e0cfbc14c52243d9a813f}
+      \strng{authornamehash}{44a7fb00f67e0cfbc14c52243d9a813f}
+      \strng{authorfullhash}{44a7fb00f67e0cfbc14c52243d9a813f}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Praat: doing phonetics by computer [Computer program]}}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb http://www.praat.org
+      \endverb
+      \verb{url}
+      \verb http://www.praat.org
+      \endverb
+    \endentry
+    \entry{Demolin2002}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=243d7c19cafe19dc2404238fad28d65d}{%
+           family={Demolin},
+           familyi={D\bibinitperiod},
+           given={Didier},
+           giveni={D\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=9764bbb78ebf4a22342f2aea0e74c06f}{%
+           family={Gussenhoven},
+           familyi={G\bibinitperiod},
+           given={Carlos},
+           giveni={C\bibinitperiod}}}%
+        {{hash=112f1d1f994db43961caf0f16b65d466}{%
+           family={Warner},
+           familyi={W\bibinitperiod},
+           given={Natasha},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {The Hague}%
+      }
+      \list{publisher}{1}{%
+        {Walter de Gruyter}%
+      }
+      \strng{namehash}{243d7c19cafe19dc2404238fad28d65d}
+      \strng{fullhash}{243d7c19cafe19dc2404238fad28d65d}
+      \strng{bibnamehash}{243d7c19cafe19dc2404238fad28d65d}
+      \strng{authorbibnamehash}{243d7c19cafe19dc2404238fad28d65d}
+      \strng{authornamehash}{243d7c19cafe19dc2404238fad28d65d}
+      \strng{authorfullhash}{243d7c19cafe19dc2404238fad28d65d}
+      \strng{editorbibnamehash}{ccbacde1fc13994c471df02c7ab3089e}
+      \strng{editornamehash}{ccbacde1fc13994c471df02c7ab3089e}
+      \strng{editorfullhash}{ccbacde1fc13994c471df02c7ab3089e}
+      \field{extraname}{1}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Laboratory Phonology 7}
+      \field{title}{{The search for primitives in phonology and the explanation of sound patterns: The contribution of fieldwork studies}}
+      \field{year}{2002}
+      \field{pages}{455\bibrangedash 514}
+      \range{pages}{60}
+    \endentry
+    \entry{Demolin2016}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=243d7c19cafe19dc2404238fad28d65d}{%
+           family={Demolin},
+           familyi={D\bibinitperiod},
+           given={Didier},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{243d7c19cafe19dc2404238fad28d65d}
+      \strng{fullhash}{243d7c19cafe19dc2404238fad28d65d}
+      \strng{bibnamehash}{243d7c19cafe19dc2404238fad28d65d}
+      \strng{authorbibnamehash}{243d7c19cafe19dc2404238fad28d65d}
+      \strng{authornamehash}{243d7c19cafe19dc2404238fad28d65d}
+      \strng{authorfullhash}{243d7c19cafe19dc2404238fad28d65d}
+      \field{extraname}{2}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{{Presented at LabPhon15, Cornell University}}
+      \field{title}{{Dynamics and articulatory control in Amharic ejectives}}
+      \field{year}{2015}
+    \endentry
+    \entry{Dowle2017}{manual}{}
+      \name{author}{2}{}{%
+        {{hash=f9aa707aca7b85092f4b82a89ad10a7b}{%
+           family={Dowle},
+           familyi={D\bibinitperiod},
+           given={Matt},
+           giveni={M\bibinitperiod}}}%
+        {{hash=ed08629c8f618b530fcb00185b3ee0f8}{%
+           family={Srinivasan},
+           familyi={S\bibinitperiod},
+           given={Arun},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{e05d180b26b38ff26f35be88fdf259ed}
+      \strng{fullhash}{e05d180b26b38ff26f35be88fdf259ed}
+      \strng{bibnamehash}{e05d180b26b38ff26f35be88fdf259ed}
+      \strng{authorbibnamehash}{e05d180b26b38ff26f35be88fdf259ed}
+      \strng{authornamehash}{e05d180b26b38ff26f35be88fdf259ed}
+      \strng{authorfullhash}{e05d180b26b38ff26f35be88fdf259ed}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{R package version 1.10.4}
+      \field{title}{data.table: Extension of `data.frame'}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb https://CRAN.R-project.org/package=data.table
+      \endverb
+      \verb{url}
+      \verb https://CRAN.R-project.org/package=data.table
+      \endverb
+    \endentry
+    \entry{GarciaVega2019}{article}{}
+      \name{author}{2}{}{%
+        {{hash=a30bdbecd97bede05d6835f78797bf8c}{%
+           family={Garcia-Vega},
+           familyi={G\bibinithyphendelim V\bibinitperiod},
+           given={Michelle},
+           giveni={M\bibinitperiod}}}%
+        {{hash=52b6ac6613bab0ca0c0f71a355d34030}{%
+           family={Tucker},
+           familyi={T\bibinitperiod},
+           given={Benjamin\bibnamedelima V.},
+           giveni={B\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+      }
+      \strng{namehash}{ddc79b4ed8dbadbf5334216892ef8efa}
+      \strng{fullhash}{ddc79b4ed8dbadbf5334216892ef8efa}
+      \strng{bibnamehash}{ddc79b4ed8dbadbf5334216892ef8efa}
+      \strng{authorbibnamehash}{ddc79b4ed8dbadbf5334216892ef8efa}
+      \strng{authornamehash}{ddc79b4ed8dbadbf5334216892ef8efa}
+      \strng{authorfullhash}{ddc79b4ed8dbadbf5334216892ef8efa}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the International Phonetic Association}
+      \field{title}{{Acoustic properties of vowels in Upper Necaxa Totonac}}
+      \field{volume}{to appear}
+      \field{year}{2019}
+    \endentry
+    \entry{Gordon2006}{article}{}
+      \name{author}{2}{}{%
+        {{hash=8b8891db68628ca28c08481da8cf5dc6}{%
+           family={Gordon},
+           familyi={G\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod}}}%
+        {{hash=a33f35b3cc541575b797d7d6cc974731}{%
+           family={Applebaum},
+           familyi={A\bibinitperiod},
+           given={Ayla},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{c919dbe2fd3a17212e93d6362e043540}
+      \strng{fullhash}{c919dbe2fd3a17212e93d6362e043540}
+      \strng{bibnamehash}{c919dbe2fd3a17212e93d6362e043540}
+      \strng{authorbibnamehash}{c919dbe2fd3a17212e93d6362e043540}
+      \strng{authornamehash}{c919dbe2fd3a17212e93d6362e043540}
+      \strng{authorfullhash}{c919dbe2fd3a17212e93d6362e043540}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the International Phonetic Association}
+      \field{month}{12}
+      \field{number}{02}
+      \field{title}{{Phonetic structures of Turkish Kabardian}}
+      \field{volume}{36}
+      \field{year}{2006}
+      \field{pages}{159\bibrangedash 186}
+      \range{pages}{28}
+      \verb{doi}
+      \verb 10.1017/S0025100306002532
+      \endverb
+    \endentry
+    \entry{Gouskova2021}{article}{}
+      \name{author}{2}{}{%
+        {{hash=9340f9f07af285a4f2d4b36d7c9d5a62}{%
+           family={Gouskova},
+           familyi={G\bibinitperiod},
+           given={Maria},
+           giveni={M\bibinitperiod}}}%
+        {{hash=439fe7e89f7d85dada87b1edbd06fc1b}{%
+           family={Stanton},
+           familyi={S\bibinitperiod},
+           given={Juliet},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{1d0ac992fe1993f827be1a39933a4fd7}
+      \strng{fullhash}{1d0ac992fe1993f827be1a39933a4fd7}
+      \strng{bibnamehash}{1d0ac992fe1993f827be1a39933a4fd7}
+      \strng{authorbibnamehash}{1d0ac992fe1993f827be1a39933a4fd7}
+      \strng{authornamehash}{1d0ac992fe1993f827be1a39933a4fd7}
+      \strng{authorfullhash}{1d0ac992fe1993f827be1a39933a4fd7}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1535-0665}
+      \field{journaltitle}{Language}
+      \field{number}{1}
+      \field{shortjournal}{Language}
+      \field{title}{Learning complex segments}
+      \field{urlday}{4}
+      \field{urlmonth}{10}
+      \field{urlyear}{2022}
+      \field{volume}{97}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{151\bibrangedash 193}
+      \range{pages}{43}
+      \verb{doi}
+      \verb 10.1353/lan.2021.0011
+      \endverb
+      \verb{urlraw}
+      \verb https://muse.jhu.edu/article/785684
+      \endverb
+      \verb{url}
+      \verb https://muse.jhu.edu/article/785684
+      \endverb
+    \endentry
+    \entry{Kirchner2002}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=28297795cae0ad9367fc451958dfd362}{%
+           family={Kirchner},
+           familyi={K\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod}}}%
+        {{hash=d0cf1769f8758a26c8ca774b5ab8da03}{%
+           family={Varelas},
+           familyi={V\bibinitperiod},
+           given={Eleni},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{17760799d23fde2258da4370f93c25b9}
+      \strng{fullhash}{17760799d23fde2258da4370f93c25b9}
+      \strng{bibnamehash}{17760799d23fde2258da4370f93c25b9}
+      \strng{authorbibnamehash}{17760799d23fde2258da4370f93c25b9}
+      \strng{authornamehash}{17760799d23fde2258da4370f93c25b9}
+      \strng{authorfullhash}{17760799d23fde2258da4370f93c25b9}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{7th Workshop on Structure and Constituency in the Languages of the Americas}}
+      \field{title}{{A cue-based approach to the phonotactics of Upper Necaxa Totonac}}
+      \field{year}{2002}
+    \endentry
+    \entry{Kung2007}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=addad4fdb086fd988df902595f15c8e2}{%
+           family={Kung},
+           familyi={K\bibinitperiod},
+           given={Susan\bibnamedelima Smythe},
+           giveni={S\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {University of Texas at Austin}%
+      }
+      \strng{namehash}{addad4fdb086fd988df902595f15c8e2}
+      \strng{fullhash}{addad4fdb086fd988df902595f15c8e2}
+      \strng{bibnamehash}{addad4fdb086fd988df902595f15c8e2}
+      \strng{authorbibnamehash}{addad4fdb086fd988df902595f15c8e2}
+      \strng{authornamehash}{addad4fdb086fd988df902595f15c8e2}
+      \strng{authorfullhash}{addad4fdb086fd988df902595f15c8e2}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{A Descriptive Grammar of Huehuetla Tepehua}}
+      \field{type}{phdthesis}
+      \field{year}{2007}
+    \endentry
+    \entry{Lenth2016}{article}{}
+      \name{author}{1}{}{%
+        {{hash=302236484f92fa184e2c42b3a41830af}{%
+           family={Lenth},
+           familyi={L\bibinitperiod},
+           given={Russell\bibnamedelima V.},
+           giveni={R\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+      }
+      \strng{namehash}{302236484f92fa184e2c42b3a41830af}
+      \strng{fullhash}{302236484f92fa184e2c42b3a41830af}
+      \strng{bibnamehash}{302236484f92fa184e2c42b3a41830af}
+      \strng{authorbibnamehash}{302236484f92fa184e2c42b3a41830af}
+      \strng{authornamehash}{302236484f92fa184e2c42b3a41830af}
+      \strng{authorfullhash}{302236484f92fa184e2c42b3a41830af}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Statistical Software}
+      \field{number}{1}
+      \field{title}{Least-Squares Means: The {R} Package {lsmeans}}
+      \field{volume}{69}
+      \field{year}{2016}
+      \field{pages}{1\bibrangedash 33}
+      \range{pages}{33}
+      \verb{doi}
+      \verb 10.18637/jss.v069.i01
+      \endverb
+    \endentry
+    \entry{Levy1987}{book}{}
+      \name{author}{1}{}{%
+        {{hash=02425ed31a06a320d0330299ab3546ee}{%
+           family={Levy},
+           familyi={L\bibinitperiod},
+           given={Paulette},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Mexico City, Mexico}%
+      }
+      \list{publisher}{1}{%
+        {Instituto de Investigaciones Filológicas, Universidad Nacional Autonoma de México}%
+      }
+      \strng{namehash}{02425ed31a06a320d0330299ab3546ee}
+      \strng{fullhash}{02425ed31a06a320d0330299ab3546ee}
+      \strng{bibnamehash}{02425ed31a06a320d0330299ab3546ee}
+      \strng{authorbibnamehash}{02425ed31a06a320d0330299ab3546ee}
+      \strng{authornamehash}{02425ed31a06a320d0330299ab3546ee}
+      \strng{authorfullhash}{02425ed31a06a320d0330299ab3546ee}
+      \field{extraname}{1}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Fonología del totonaco de Papantla, Veracruz}}
+      \field{year}{1987}
+    \endentry
+    \entry{Levy2015}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=02425ed31a06a320d0330299ab3546ee}{%
+           family={Levy},
+           familyi={L\bibinitperiod},
+           given={Paulette},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{02425ed31a06a320d0330299ab3546ee}
+      \strng{fullhash}{02425ed31a06a320d0330299ab3546ee}
+      \strng{bibnamehash}{02425ed31a06a320d0330299ab3546ee}
+      \strng{authorbibnamehash}{02425ed31a06a320d0330299ab3546ee}
+      \strng{authornamehash}{02425ed31a06a320d0330299ab3546ee}
+      \strng{authorfullhash}{02425ed31a06a320d0330299ab3546ee}
+      \field{extraname}{2}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Memorias del VII Congreso de Idiomas Indígenas de Latinoamérica, 29–31 de octubre de 2015, Universidad de Texas en Austin}
+      \field{title}{{La fonología prosódica del totonaco de Coatepec: Los textos totonacos de N. A. McQuown (1938-1940)}}
+      \field{year}{2015}
+    \endentry
+    \entry{Mackay1994}{article}{}
+      \name{author}{1}{}{%
+        {{hash=239c97e55d5918d6cc4f3226ebd813e3}{%
+           family={MacKay},
+           familyi={M\bibinitperiod},
+           given={Carolyn\bibnamedelima J},
+           giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{239c97e55d5918d6cc4f3226ebd813e3}
+      \strng{fullhash}{239c97e55d5918d6cc4f3226ebd813e3}
+      \strng{bibnamehash}{239c97e55d5918d6cc4f3226ebd813e3}
+      \strng{authorbibnamehash}{239c97e55d5918d6cc4f3226ebd813e3}
+      \strng{authornamehash}{239c97e55d5918d6cc4f3226ebd813e3}
+      \strng{authorfullhash}{239c97e55d5918d6cc4f3226ebd813e3}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of American Linguistics}
+      \field{number}{4}
+      \field{title}{{A sketch of Misantla Totonac phonology}}
+      \field{volume}{60}
+      \field{year}{1994}
+      \field{pages}{369\bibrangedash 419}
+      \range{pages}{51}
+    \endentry
+    \entry{Maddieson1998}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=e6814f62a21c83c74d5e64592fcff2a8}{%
+           family={Maddieson},
+           familyi={M\bibinitperiod},
+           given={Ian},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{e6814f62a21c83c74d5e64592fcff2a8}
+      \strng{fullhash}{e6814f62a21c83c74d5e64592fcff2a8}
+      \strng{bibnamehash}{e6814f62a21c83c74d5e64592fcff2a8}
+      \strng{authorbibnamehash}{e6814f62a21c83c74d5e64592fcff2a8}
+      \strng{authornamehash}{e6814f62a21c83c74d5e64592fcff2a8}
+      \strng{authorfullhash}{e6814f62a21c83c74d5e64592fcff2a8}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{Proceedings of the Twenty-Fourth Annual Meeting of the Berkeley Linguistics Society: General Session and Parasession on Phonetics and Phonological Universals}}
+      \field{title}{{Why make life hard? - resolutions to problems of rare and difficult sounds types}}
+      \field{year}{1998}
+      \field{pages}{367\bibrangedash 380}
+      \range{pages}{14}
+    \endentry
+    \entry{Maddieson1990}{article}{}
+      \name{author}{2}{}{%
+        {{hash=e6814f62a21c83c74d5e64592fcff2a8}{%
+           family={Maddieson},
+           familyi={M\bibinitperiod},
+           given={Ian},
+           giveni={I\bibinitperiod}}}%
+        {{hash=ff368a6ac116bb39b6a15a5e03acce45}{%
+           family={Precoda},
+           familyi={P\bibinitperiod},
+           given={Kristin},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{788e1df8832809802e9d195934e41797}
+      \strng{fullhash}{788e1df8832809802e9d195934e41797}
+      \strng{bibnamehash}{788e1df8832809802e9d195934e41797}
+      \strng{authorbibnamehash}{788e1df8832809802e9d195934e41797}
+      \strng{authornamehash}{788e1df8832809802e9d195934e41797}
+      \strng{authorfullhash}{788e1df8832809802e9d195934e41797}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{UCLA Working Papers in Phonetics}
+      \field{title}{{Updating UPSID}}
+      \field{year}{1990}
+      \field{pages}{104\bibrangedash 111}
+      \range{pages}{8}
+    \endentry
+    \entry{Maddieson2001a}{article}{}
+      \name{author}{3}{}{%
+        {{hash=e6814f62a21c83c74d5e64592fcff2a8}{%
+           family={Maddieson},
+           familyi={M\bibinitperiod},
+           given={Ian},
+           giveni={I\bibinitperiod}}}%
+        {{hash=a14132b849d7be0dd82de286112a936a}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Caroline\bibnamedelima L},
+           giveni={C\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=2063d4bf14f5d435ec70ac9b1deda9ee}{%
+           family={Bessell},
+           familyi={B\bibinitperiod},
+           given={Nicola\bibnamedelima J.},
+           giveni={N\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{17ff97d94e8ff1d8d0d9ddb8f56139c0}
+      \strng{fullhash}{9ee6e6a3778f987ffa7f84f01052ffb5}
+      \strng{bibnamehash}{9ee6e6a3778f987ffa7f84f01052ffb5}
+      \strng{authorbibnamehash}{9ee6e6a3778f987ffa7f84f01052ffb5}
+      \strng{authornamehash}{17ff97d94e8ff1d8d0d9ddb8f56139c0}
+      \strng{authorfullhash}{9ee6e6a3778f987ffa7f84f01052ffb5}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Anthropological Linguistics}
+      \field{number}{2}
+      \field{title}{{Aspects of the phonetics of Tlingit}}
+      \field{volume}{43}
+      \field{year}{2001}
+      \field{pages}{135\bibrangedash 176}
+      \range{pages}{42}
+    \endentry
+    \entry{McFarland2009}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=d4da1cb262b3475ceeb10b74e823ade8}{%
+           family={McFarland},
+           familyi={M\bibinitperiod},
+           given={Teresa\bibnamedelima Ann},
+           giveni={T\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {University of California, Berkeley}%
+      }
+      \strng{namehash}{d4da1cb262b3475ceeb10b74e823ade8}
+      \strng{fullhash}{d4da1cb262b3475ceeb10b74e823ade8}
+      \strng{bibnamehash}{d4da1cb262b3475ceeb10b74e823ade8}
+      \strng{authorbibnamehash}{d4da1cb262b3475ceeb10b74e823ade8}
+      \strng{authornamehash}{d4da1cb262b3475ceeb10b74e823ade8}
+      \strng{authorfullhash}{d4da1cb262b3475ceeb10b74e823ade8}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{The phonology and morphology of Filomeno Mata Totonac}}
+      \field{type}{phdthesis}
+      \field{year}{2009}
+    \endentry
+    \entry{Moeng2019}{incollection}{}
+      \name{author}{2}{}{%
+        {{hash=7c06a0585aecd93bb0348a88806215e6}{%
+           family={Moeng},
+           familyi={M\bibinitperiod},
+           given={Emily},
+           giveni={E\bibinitperiod}}}%
+        {{hash=90c24e2a3aef01af05b021274d582b05}{%
+           family={Carter},
+           familyi={C\bibinitperiod},
+           given={William},
+           giveni={W\bibinitperiod}}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=3150ab8aaa518d4dac36f894dad06f80}{%
+           family={Clem},
+           familyi={C\bibinitperiod},
+           given={Emily},
+           giveni={E\bibinitperiod}}}%
+        {{hash=f0976e331c0abef7383d37e5dcf4b962}{%
+           family={Jenks},
+           familyi={J\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+        {{hash=e8ce8dda71c452f450213aea5744a66e}{%
+           family={Sande},
+           familyi={S\bibinitperiod},
+           given={Hannah},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \list{publisher}{1}{%
+        {Language Science Press}%
+      }
+      \strng{namehash}{e463aa6f1c4204f7a50e0437c72c03fa}
+      \strng{fullhash}{e463aa6f1c4204f7a50e0437c72c03fa}
+      \strng{bibnamehash}{e463aa6f1c4204f7a50e0437c72c03fa}
+      \strng{authorbibnamehash}{e463aa6f1c4204f7a50e0437c72c03fa}
+      \strng{authornamehash}{e463aa6f1c4204f7a50e0437c72c03fa}
+      \strng{authorfullhash}{e463aa6f1c4204f7a50e0437c72c03fa}
+      \strng{editorbibnamehash}{33cea1b3ab56d8d34531d8de9c06e010}
+      \strng{editornamehash}{bdd59cbb7358edc76548845e20e3066a}
+      \strng{editorfullhash}{33cea1b3ab56d8d34531d8de9c06e010}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Theory and description in African Linguistics: Selected papers from the 47th Annual Conference on African Linguistics}
+      \field{title}{{Factors in the affrication of the ejective alveolar fricative in Tigrinya}}
+      \field{year}{2019}
+      \field{pages}{269\bibrangedash 285}
+      \range{pages}{17}
+      \verb{doi}
+      \verb DOI:10.5281/zenodo.3367148
+      \endverb
+    \endentry
+    \entry{Moran2019}{book}{}
+      \name{editor}{2}{}{%
+        {{hash=b24fcf048428c6e7140084d0fe3910a7}{%
+           family={Moran},
+           familyi={M\bibinitperiod},
+           given={Steven},
+           giveni={S\bibinitperiod}}}%
+        {{hash=851ec38307e3997ed3edbe4a1c1144a2}{%
+           family={McCloy},
+           familyi={M\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Jena}%
+      }
+      \list{publisher}{1}{%
+        {Max Planck Institute for the Science of Human History}%
+      }
+      \strng{namehash}{b740828d537f0c14b731711c31c33295}
+      \strng{fullhash}{b740828d537f0c14b731711c31c33295}
+      \strng{bibnamehash}{b740828d537f0c14b731711c31c33295}
+      \strng{editorbibnamehash}{b740828d537f0c14b731711c31c33295}
+      \strng{editornamehash}{b740828d537f0c14b731711c31c33295}
+      \strng{editorfullhash}{b740828d537f0c14b731711c31c33295}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{{PHOIBLE 2.0.}}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb http://phoible.org
+      \endverb
+      \verb{url}
+      \verb http://phoible.org
+      \endverb
+    \endentry
+    \entry{Pike1947}{book}{}
+      \name{author}{1}{}{%
+        {{hash=a25af7f2025a3e1a6d41a32d78e7cb59}{%
+           family={Pike},
+           familyi={P\bibinitperiod},
+           given={Kenneth\bibnamedelima L.},
+           giveni={K\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Michigan}%
+      }
+      \list{publisher}{1}{%
+        {Ann Arbor/University of Michigan Press}%
+      }
+      \strng{namehash}{a25af7f2025a3e1a6d41a32d78e7cb59}
+      \strng{fullhash}{a25af7f2025a3e1a6d41a32d78e7cb59}
+      \strng{bibnamehash}{a25af7f2025a3e1a6d41a32d78e7cb59}
+      \strng{authorbibnamehash}{a25af7f2025a3e1a6d41a32d78e7cb59}
+      \strng{authornamehash}{a25af7f2025a3e1a6d41a32d78e7cb59}
+      \strng{authorfullhash}{a25af7f2025a3e1a6d41a32d78e7cb59}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Phonemics: a technique for reducing languages to writing}}
+      \field{year}{1947}
+    \endentry
+    \entry{Puderbaugh2015}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=f692e61550d3d05ac0c9b8d63cb0a2bb}{%
+           family={Puderbaugh},
+           familyi={P\bibinitperiod},
+           given={Rebekka},
+           giveni={R\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=71d7c6ae43e68c5e8b7cd5aae6b2ba57}{%
+           family={{The Scottish Consortium for ICPhS 2015}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Glasgow, UK}%
+      }
+      \list{publisher}{1}{%
+        {University of Glasgow}%
+      }
+      \strng{namehash}{f692e61550d3d05ac0c9b8d63cb0a2bb}
+      \strng{fullhash}{f692e61550d3d05ac0c9b8d63cb0a2bb}
+      \strng{bibnamehash}{f692e61550d3d05ac0c9b8d63cb0a2bb}
+      \strng{authorbibnamehash}{f692e61550d3d05ac0c9b8d63cb0a2bb}
+      \strng{authornamehash}{f692e61550d3d05ac0c9b8d63cb0a2bb}
+      \strng{authorfullhash}{f692e61550d3d05ac0c9b8d63cb0a2bb}
+      \strng{editorbibnamehash}{71d7c6ae43e68c5e8b7cd5aae6b2ba57}
+      \strng{editornamehash}{71d7c6ae43e68c5e8b7cd5aae6b2ba57}
+      \strng{editorfullhash}{71d7c6ae43e68c5e8b7cd5aae6b2ba57}
+      \field{extraname}{1}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{Proceedings of the 18th International Congress of Phonetic Sciences (ICPhS 2015)}}
+      \field{isbn}{978-0-85261-941-4}
+      \field{title}{{Contextual effects on the duration of ejective fricatives in Upper Necaxa Totonac}}
+      \field{year}{2015}
+      \field{pages}{Paper number 931\bibrangessep 1\bibrangedash 5}
+      \range{pages}{-1}
+      \verb{urlraw}
+      \verb http://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS2015/Papers/ICPHS0931.pdf
+      \endverb
+      \verb{url}
+      \verb http://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS2015/Papers/ICPHS0931.pdf
+      \endverb
+    \endentry
+    \entry{Puderbaugh2019a}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=f692e61550d3d05ac0c9b8d63cb0a2bb}{%
+           family={Puderbaugh},
+           familyi={P\bibinitperiod},
+           given={Rebekka},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {University of Alberta}%
+      }
+      \strng{namehash}{f692e61550d3d05ac0c9b8d63cb0a2bb}
+      \strng{fullhash}{f692e61550d3d05ac0c9b8d63cb0a2bb}
+      \strng{bibnamehash}{f692e61550d3d05ac0c9b8d63cb0a2bb}
+      \strng{authorbibnamehash}{f692e61550d3d05ac0c9b8d63cb0a2bb}
+      \strng{authornamehash}{f692e61550d3d05ac0c9b8d63cb0a2bb}
+      \strng{authorfullhash}{f692e61550d3d05ac0c9b8d63cb0a2bb}
+      \field{extraname}{2}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Laryngealization in Upper Necaxa Totonac}}
+      \field{type}{phdthesis}
+      \field{year}{2019}
+    \endentry
+    \entry{Puderbaugh2019}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=f692e61550d3d05ac0c9b8d63cb0a2bb}{%
+           family={Puderbaugh},
+           familyi={P\bibinitperiod},
+           given={Rebekka},
+           giveni={R\bibinitperiod}}}%
+      }
+      \name{editor}{4}{}{%
+        {{hash=afef49544d848c41751bd05976a91079}{%
+           family={Calhoun},
+           familyi={C\bibinitperiod},
+           given={Sasha},
+           giveni={S\bibinitperiod}}}%
+        {{hash=f1b9119394d2f746341a85fbdb4af0a1}{%
+           family={Escudero},
+           familyi={E\bibinitperiod},
+           given={Paula},
+           giveni={P\bibinitperiod}}}%
+        {{hash=171b43324d7fa09cbdb130d184683233}{%
+           family={Tabain},
+           familyi={T\bibinitperiod},
+           given={Marija},
+           giveni={M\bibinitperiod}}}%
+        {{hash=3483acc53d98318717a517e200c4ecc8}{%
+           family={Warren},
+           familyi={W\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Canberra, Australia}%
+      }
+      \list{publisher}{2}{%
+        {Australasian Speech Science}%
+        {Technology Association Inc}%
+      }
+      \strng{namehash}{f692e61550d3d05ac0c9b8d63cb0a2bb}
+      \strng{fullhash}{f692e61550d3d05ac0c9b8d63cb0a2bb}
+      \strng{bibnamehash}{f692e61550d3d05ac0c9b8d63cb0a2bb}
+      \strng{authorbibnamehash}{f692e61550d3d05ac0c9b8d63cb0a2bb}
+      \strng{authornamehash}{f692e61550d3d05ac0c9b8d63cb0a2bb}
+      \strng{authorfullhash}{f692e61550d3d05ac0c9b8d63cb0a2bb}
+      \strng{editorbibnamehash}{046ca0d053915f0c41d887eb17fd7458}
+      \strng{editornamehash}{5d1cc51cf0d1cbc9b327a0180469ce8e}
+      \strng{editorfullhash}{046ca0d053915f0c41d887eb17fd7458}
+      \field{extraname}{3}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 19th International Congress of Phonetic Sciences, Melbourne, Australia 2019}
+      \field{isbn}{978-0-646-80069-1}
+      \field{title}{{Phonetics and phonotactics of vowel laryngealization in Upper Necaxa Totonac}}
+      \field{year}{2019}
+      \field{pages}{2085\bibrangedash 2089}
+      \range{pages}{5}
+      \verb{urlraw}
+      \verb https://assta.org/proceedings/ICPhS2019/papers/ICPhS_2134.pdf
+      \endverb
+      \verb{url}
+      \verb https://assta.org/proceedings/ICPhS2019/papers/ICPhS_2134.pdf
+      \endverb
+    \endentry
+    \entry{R2017}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=dcdebb6b35bff7c0568bf8c50ef8626d}{%
+           family={{R Core Team}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Vienna, Austria}%
+      }
+      \list{publisher}{1}{%
+        {R Foundation for Statistical Computing}%
+      }
+      \strng{namehash}{dcdebb6b35bff7c0568bf8c50ef8626d}
+      \strng{fullhash}{dcdebb6b35bff7c0568bf8c50ef8626d}
+      \strng{bibnamehash}{dcdebb6b35bff7c0568bf8c50ef8626d}
+      \strng{authorbibnamehash}{dcdebb6b35bff7c0568bf8c50ef8626d}
+      \strng{authornamehash}{dcdebb6b35bff7c0568bf8c50ef8626d}
+      \strng{authorfullhash}{dcdebb6b35bff7c0568bf8c50ef8626d}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{R: A language and environment for statistical computing}}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb https://www.r-project.org/
+      \endverb
+      \verb{url}
+      \verb https://www.r-project.org/
+      \endverb
+    \endentry
+    \entry{Ridouane2017}{article}{}
+      \name{author}{2}{}{%
+        {{hash=e3d91b97847ffc0129eb0684a23ad633}{%
+           family={Ridouane},
+           familyi={R\bibinitperiod},
+           given={Rachid},
+           giveni={R\bibinitperiod}}}%
+        {{hash=a987528978b0c4e0ac5a4a4fbee9541f}{%
+           family={Gendrot},
+           familyi={G\bibinitperiod},
+           given={Cédric},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{5bae81efced32e3ce1059ee916c7154e}
+      \strng{fullhash}{5bae81efced32e3ce1059ee916c7154e}
+      \strng{bibnamehash}{5bae81efced32e3ce1059ee916c7154e}
+      \strng{authorbibnamehash}{5bae81efced32e3ce1059ee916c7154e}
+      \strng{authornamehash}{5bae81efced32e3ce1059ee916c7154e}
+      \strng{authorfullhash}{5bae81efced32e3ce1059ee916c7154e}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Brill’s Journal of Afroasiatic Languages and Linguistics 9}
+      \field{title}{{On ejective fricatives in Omani Mehri}}
+      \field{year}{2017}
+      \field{pages}{139\bibrangedash 159}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.1163/18776930-00901008
+      \endverb
+    \endentry
+    \entry{Ridouane2015}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=e3d91b97847ffc0129eb0684a23ad633}{%
+           family={Ridouane},
+           familyi={R\bibinitperiod},
+           given={Rachid},
+           giveni={R\bibinitperiod}}}%
+        {{hash=a987528978b0c4e0ac5a4a4fbee9541f}{%
+           family={Gendrot},
+           familyi={G\bibinitperiod},
+           given={Cédric},
+           giveni={C\bibinitperiod}}}%
+        {{hash=d310e032b2581a5b6397c49e844cb0c1}{%
+           family={Khatiwada},
+           familyi={K\bibinitperiod},
+           given={Rajesh},
+           giveni={R\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=71d7c6ae43e68c5e8b7cd5aae6b2ba57}{%
+           family={{The Scottish Consortium for ICPhS 2015}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Glasgow, UK}%
+      }
+      \list{publisher}{1}{%
+        {University of Glasgow}%
+      }
+      \strng{namehash}{4e133591954d8f4490d16b6424487773}
+      \strng{fullhash}{b6e705cd706410de42e37a7ba60d7b70}
+      \strng{bibnamehash}{b6e705cd706410de42e37a7ba60d7b70}
+      \strng{authorbibnamehash}{b6e705cd706410de42e37a7ba60d7b70}
+      \strng{authornamehash}{4e133591954d8f4490d16b6424487773}
+      \strng{authorfullhash}{b6e705cd706410de42e37a7ba60d7b70}
+      \strng{editorbibnamehash}{71d7c6ae43e68c5e8b7cd5aae6b2ba57}
+      \strng{editornamehash}{71d7c6ae43e68c5e8b7cd5aae6b2ba57}
+      \strng{editorfullhash}{71d7c6ae43e68c5e8b7cd5aae6b2ba57}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 18th International Congress of Phonetic Sciences (ICPhS 2015)}
+      \field{title}{{Mehri ejective fricatives: an acoustic study}}
+      \field{year}{2015}
+      \field{pages}{Paper number 995\bibrangessep 1\bibrangedash 5}
+      \range{pages}{-1}
+    \endentry
+    \entry{Seid2009}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=be943d00b66a0b784a0824e0fd25d5d9}{%
+           family={Seid},
+           familyi={S\bibinitperiod},
+           given={H},
+           giveni={H\bibinitperiod}}}%
+        {{hash=65bcfee75c1d79cddfb3afb4d5c58c7b}{%
+           family={Rajendran},
+           familyi={R\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=8b27f40772d2558e48ce0a96fb2b5cc1}{%
+           family={Yegnanarayana},
+           familyi={Y\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Brighton, UK}%
+      }
+      \list{publisher}{1}{%
+        {ISCA Archive}%
+      }
+      \strng{namehash}{55a58aff0183f406053e9c225f021b03}
+      \strng{fullhash}{38106defa8ac4e32938e64038508d818}
+      \strng{bibnamehash}{38106defa8ac4e32938e64038508d818}
+      \strng{authorbibnamehash}{38106defa8ac4e32938e64038508d818}
+      \strng{authornamehash}{55a58aff0183f406053e9c225f021b03}
+      \strng{authorfullhash}{38106defa8ac4e32938e64038508d818}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{INTERSPEECH 2009 - 10th Annual Conference of the International Speech Communication Association, September 6-10, 2009}}
+      \field{title}{{Acoustic characteristics of ejectives in Amharic}}
+      \field{year}{2009}
+    \endentry
+    \entry{Shosted2011}{article}{}
+      \name{author}{2}{}{%
+        {{hash=b6fd6f62f835e0f89399816eeef7f938}{%
+           family={Shosted},
+           familyi={S\bibinitperiod},
+           given={Ryan\bibnamedelima K.},
+           giveni={R\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=224815cc51818b3da69ec110781881a5}{%
+           family={Rose},
+           familyi={R\bibinitperiod},
+           given={Sharon},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{59ff7dfc7de3cde4ec95a97b3e567bae}
+      \strng{fullhash}{59ff7dfc7de3cde4ec95a97b3e567bae}
+      \strng{bibnamehash}{59ff7dfc7de3cde4ec95a97b3e567bae}
+      \strng{authorbibnamehash}{59ff7dfc7de3cde4ec95a97b3e567bae}
+      \strng{authornamehash}{59ff7dfc7de3cde4ec95a97b3e567bae}
+      \strng{authorfullhash}{59ff7dfc7de3cde4ec95a97b3e567bae}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the International Phonetic Association}
+      \field{month}{3}
+      \field{number}{1}
+      \field{title}{{Affricating ejective fricatives: The case of Tigrinya}}
+      \field{volume}{41}
+      \field{year}{2011}
+      \field{pages}{41\bibrangedash 65}
+      \range{pages}{25}
+    \endentry
+    \entry{Stark1947}{article}{}
+      \name{author}{1}{}{%
+        {{hash=a7276c1956a38d0348b1525bae128883}{%
+           family={Stark},
+           familyi={S\bibinitperiod},
+           given={Donald\bibnamedelima S.},
+           giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{a7276c1956a38d0348b1525bae128883}
+      \strng{fullhash}{a7276c1956a38d0348b1525bae128883}
+      \strng{bibnamehash}{a7276c1956a38d0348b1525bae128883}
+      \strng{authorbibnamehash}{a7276c1956a38d0348b1525bae128883}
+      \strng{authornamehash}{a7276c1956a38d0348b1525bae128883}
+      \strng{authorfullhash}{a7276c1956a38d0348b1525bae128883}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Aboriginal Linguistics}
+      \field{number}{1}
+      \field{title}{Mixtexo: complex phonemes}
+      \field{volume}{1}
+      \field{year}{1947}
+      \field{pages}{10\bibrangedash 15}
+      \range{pages}{6}
+    \endentry
+    \entry{Trubetzkoy1939}{book}{}
+      \name{author}{1}{}{%
+        {{hash=6a2efafd2fcb2dfdb3826436a6a6ce04}{%
+           family={Trubetzkoy},
+           familyi={T\bibinitperiod},
+           given={Nikolaj\bibnamedelima S.},
+           giveni={N\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Göttingen}%
+      }
+      \list{publisher}{2}{%
+        {Vandenhoeck}%
+        {Ruprecht}%
+      }
+      \strng{namehash}{6a2efafd2fcb2dfdb3826436a6a6ce04}
+      \strng{fullhash}{6a2efafd2fcb2dfdb3826436a6a6ce04}
+      \strng{bibnamehash}{6a2efafd2fcb2dfdb3826436a6a6ce04}
+      \strng{authorbibnamehash}{6a2efafd2fcb2dfdb3826436a6a6ce04}
+      \strng{authornamehash}{6a2efafd2fcb2dfdb3826436a6a6ce04}
+      \strng{authorfullhash}{6a2efafd2fcb2dfdb3826436a6a6ce04}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Grundzüge der Phonologie}
+      \field{year}{1939}
+    \endentry
+    \entry{Uchihara2021}{article}{}
+      \name{author}{1}{}{%
+        {{hash=8aae7a571c4a2a0a35a1f4685c07885b}{%
+           family={Uchihara},
+           familyi={U\bibinitperiod},
+           given={Hiroto},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{8aae7a571c4a2a0a35a1f4685c07885b}
+      \strng{fullhash}{8aae7a571c4a2a0a35a1f4685c07885b}
+      \strng{bibnamehash}{8aae7a571c4a2a0a35a1f4685c07885b}
+      \strng{authorbibnamehash}{8aae7a571c4a2a0a35a1f4685c07885b}
+      \strng{authornamehash}{8aae7a571c4a2a0a35a1f4685c07885b}
+      \strng{authorfullhash}{8aae7a571c4a2a0a35a1f4685c07885b}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{url}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{2007-736X}
+      \field{journaltitle}{Cuadernos de Lingüística de El Colegio de México}
+      \field{shortjournal}{{CLECM}}
+      \field{shorttitle}{Clusters vs units in Otomanguean}
+      \field{title}{{Clusters vs units in Otomanguean: the cases of Tlapanec (Mè’phàà) and Zapotec (Dixsa:)}}
+      \field{urlday}{4}
+      \field{urlmonth}{10}
+      \field{urlyear}{2022}
+      \field{volume}{8}
+      \field{urldateera}{ce}
+      \field{pages}{1\bibrangedash 57}
+      \range{pages}{57}
+      \verb{doi}
+      \verb 10.24201/clecm.v8i0.224
+      \endverb
+      \verb{urlraw}
+      \verb https://cuadernoslinguistica.colmex.mx/index.php/cl/article/view/224
+      \endverb
+      \verb{url}
+      \verb https://cuadernoslinguistica.colmex.mx/index.php/cl/article/view/224
+      \endverb
+    \endentry
+    \entry{Watters1980}{article}{}
+      \name{author}{1}{}{%
+        {{hash=b8e4003ae084ab500d753ddb8f80f0cc}{%
+           family={Watters},
+           familyi={W\bibinitperiod},
+           given={James\bibnamedelima K.},
+           giveni={J\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{b8e4003ae084ab500d753ddb8f80f0cc}
+      \strng{fullhash}{b8e4003ae084ab500d753ddb8f80f0cc}
+      \strng{bibnamehash}{b8e4003ae084ab500d753ddb8f80f0cc}
+      \strng{authorbibnamehash}{b8e4003ae084ab500d753ddb8f80f0cc}
+      \strng{authornamehash}{b8e4003ae084ab500d753ddb8f80f0cc}
+      \strng{authorfullhash}{b8e4003ae084ab500d753ddb8f80f0cc}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Summer Institute of Linguistics. SIL-Mexico Workpapers}
+      \field{title}{{Aspects of Tlachichilco Tepehua (Totonacan) Phonology}}
+      \field{volume}{4}
+      \field{year}{1980}
+      \field{pages}{85\bibrangedash 129}
+      \range{pages}{45}
+    \endentry
+    \entry{Yin2023}{article}{}
+      \name{author}{3}{}{%
+        {{hash=d463511c5613f278d842f1dfa747fea1}{%
+           family={Yin},
+           familyi={Y\bibinitperiod},
+           given={Ruihua},
+           giveni={R\bibinitperiod}}}%
+        {{hash=c275ab7bd2bbd77ad510da7ea1c6b122}{%
+           family={Weijer},
+           familyi={W\bibinitperiod},
+           given={Jeroen},
+           giveni={J\bibinitperiod},
+           prefix={van\bibnamedelima de},
+           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
+        {{hash=6aa50b0d84c87a1e899ea899a8a3ce4d}{%
+           family={Round},
+           familyi={R\bibinitperiod},
+           given={Erich\bibnamedelima R.},
+           giveni={E\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{ee8765fbd8dbd714a287699bf20c6efa}
+      \strng{fullhash}{2effd2ac119643d3feb69c8c5c5072d1}
+      \strng{bibnamehash}{2effd2ac119643d3feb69c8c5c5072d1}
+      \strng{authorbibnamehash}{2effd2ac119643d3feb69c8c5c5072d1}
+      \strng{authornamehash}{ee8765fbd8dbd714a287699bf20c6efa}
+      \strng{authorfullhash}{2effd2ac119643d3feb69c8c5c5072d1}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Linguistic Typology}
+      \field{title}{{Frequent violation of the sonority sequencing principle in hundreds of languages: how often and by which sequences? }}
+      \field{volume}{aop}
+      \field{year}{2023}
+      \field{pages}{1\bibrangedash 23}
+      \range{pages}{23}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

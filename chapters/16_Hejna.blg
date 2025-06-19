@@ -1,0 +1,42 @@
+[0] Config.pm:308> INFO - This is Biber 2.20
+[0] Config.pm:311> INFO - Logfile is '16_Hejna.blg'
+[77] biber:340> INFO - === Tue Apr  1, 2025, 15:39:10
+[92] Biber.pm:420> INFO - Reading '16_Hejna.bcf'
+[236] Biber.pm:994> INFO - Found 132 citekeys in bib section 0
+[247] Biber.pm:4463> INFO - Processing section 0
+[271] Biber.pm:4654> INFO - Looking for bibtex file '../localbibliography.bib' for section 0
+[318] bibtex.pm:1713> INFO - LaTeX decoding ...
+[1587] bibtex.pm:1519> INFO - Found BibTeX data source '../localbibliography.bib'
+[2387] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[2387] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[2387] Biber.pm:4283> INFO - Sorting list 'nyt/global//global/global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[2387] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
+[2477] bbl.pm:676> INFO - Writing '16_Hejna.bbl' with encoding 'UTF-8'
+[2517] bbl.pm:779> INFO - Output to 16_Hejna.bbl
+[2517] Biber.pm:131> WARN - Possible typo (case mismatch) between citation and datasource keys: 'Hewson1993' and 'hewson1993' in file '../localbibliography.bib'
+[2517] Biber.pm:131> WARN - Possible typo (case mismatch) between citation and datasource keys: 'StevensHajek2004' and 'stevenshajek2004' in file '../localbibliography.bib'
+[2517] Biber.pm:131> WARN - I didn't find a database entry for 'chapters/02_Iosad' (section 0)
+[2518] Biber.pm:131> WARN - I didn't find a database entry for 'chapters/18_vantveer' (section 0)
+[2518] Biber.pm:131> WARN - I didn't find a database entry for 'chapters/17_Craioveanu' (section 0)
+[2518] Biber.pm:131> WARN - I didn't find a database entry for 'MoisikEtAlInPrep' (section 0)
+[2518] Biber.pm:131> WARN - I didn't find a database entry for 'chapters/12_WatsonEtAl' (section 0)
+[2518] Biber.pm:131> WARN - I didn't find a database entry for 'Hewson1993' (section 0)
+[2518] Biber.pm:131> WARN - I didn't find a database entry for 'Gatherpole1983' (section 0)
+[2518] Biber.pm:131> WARN - I didn't find a database entry for 'Djawanai1983' (section 0)
+[2518] Biber.pm:131> WARN - I didn't find a database entry for 'Tronnier2019' (section 0)
+[2518] Biber.pm:131> WARN - I didn't find a database entry for 'StevensHajek2004' (section 0)
+[2518] Biber.pm:131> WARN - I didn't find a database entry for 'RingenvanDommelen2013' (section 0)
+[2518] Biber.pm:131> WARN - I didn't find a database entry for 'vanDommelen1999' (section 0)
+[2518] Biber.pm:131> WARN - I didn't find a database entry for 'Knooihoozen2013' (section 0)
+[2518] Biber.pm:131> WARN - I didn't find a database entry for 'NíChasaide1985' (section 0)
+[2518] Biber.pm:131> WARN - I didn't find a database entry for 'SvantessonEtAl2005' (section 0)
+[2518] Biber.pm:131> WARN - I didn't find a database entry for 'BlightPike1976' (section 0)
+[2518] Biber.pm:131> WARN - I didn't find a database entry for 'Rankin2003' (section 0)
+[2519] Biber.pm:131> WARN - I didn't find a database entry for 'Gráczi2011' (section 0)
+[2519] Biber.pm:131> WARN - I didn't find a database entry for 'Grázi2011' (section 0)
+[2519] Biber.pm:131> WARN - I didn't find a database entry for 'Iosad2022' (section 0)
+[2519] Biber.pm:131> WARN - I didn't find a database entry for 'McRobbie-Utasi1992' (section 0)
+[2519] Biber.pm:131> WARN - I didn't find a database entry for 'Elias-UlloaMuñozAramburú2021' (section 0)
+[2519] Biber.pm:131> WARN - I didn't find a database entry for 'Elzinga2014' (section 0)
+[2519] Biber.pm:131> WARN - I didn't find a database entry for 'Crawford1973' (section 0)
+[2519] Biber.pm:133> INFO - WARNINGS: 26

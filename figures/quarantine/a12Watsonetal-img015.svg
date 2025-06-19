@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2176"
+   width="1368.9702"
+   height="643.93799"
+   viewBox="0 0 1368.9703 643.93799"
+   sodipodi:docname="a12Watsonetal-img015.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2180">
+    <marker
+       style="overflow:visible"
+       id="TriangleStart"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="namedview2178"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.71929828"
+     inkscape:cx="577.64632"
+     inkscape:cy="475.46339"
+     inkscape:window-width="3830"
+     inkscape:window-height="1046"
+     inkscape:window-x="2560"
+     inkscape:window-y="1080"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g2182"
+     showguides="true">
+    <sodipodi:guide
+       position="699.93225,194.68375"
+       orientation="1,0"
+       id="guide2332"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="940.77972,173.05663"
+       orientation="1,0"
+       id="guide2334"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1240.6102,168.14138"
+       orientation="1,0"
+       id="guide2336"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="880.81362,219.26002"
+       orientation="0,-1"
+       id="guide2338"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g2182"
+     transform="translate(1.58639,1.58639)">
+    <image
+       width="1701.3333"
+       height="928"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       xlink:href="a12Watsonetal-img015.png"
+       id="image2184" />
+    <text
+       xml:space="preserve"
+       style="font-size:50.6667px;line-height:125%;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O';font-variant-ligatures:none;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="246.6429"
+       y="205.47856"
+       id="text2307"><tspan
+         sodipodi:role="line"
+         id="tspan2305"
+         x="246.6429"
+         y="205.47856">[ɬʕ                 ɛː     {Ṿ}                              (l)]</tspan></text>
+    <path
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.17;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;marker-start:url(#TriangleStart);marker-end:url(#TriangleStart);stop-color:#000000;stop-opacity:1"
+       d="m 709.69509,423.09159 218.24132,0"
+       id="path2340"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.17;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleStart);marker-end:url(#TriangleStart)"
+       d="m 1226.3597,423.59159 -276.28012,-0.5"
+       id="path2342"
+       sodipodi:nodetypes="cc" />
+    <ellipse
+       style="color:#000000;font-variation-settings:normal;overflow:visible;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:3.17278;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:9.7738, 9.7738;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;marker-start:url(#TriangleStart);marker-end:url(#TriangleStart);stop-color:#000000;stop-opacity:1"
+       id="path2820"
+       cx="1119.3054"
+       cy="536.72162"
+       rx="244.07831"
+       ry="99.383934" />
+  </g>
+</svg>
